@@ -33,7 +33,7 @@ O código Python usado para análise de dados e visualização está disponível
    git clone https://github.com/seunome/Materias-primas-agricolas-1990-2020.git
    ```
 
-2. Abra e execute o Jupyter Notebook (`analysis.ipynb`) usando um ambiente Python com as bibliotecas necessárias instaladas.
+2. Abra e execute o Jupyter Notebook (`Agricultural.ipynb`) usando um ambiente Python com as bibliotecas necessárias instaladas.
 
 3. Explore as visualizações e resultados da análise para obter insights sobre os preços de matérias-primas agrícolas.
 
